@@ -55,6 +55,12 @@ print(list_of_nums)
 ```
 
 ## Output:
+1)
+![Screenshot from 2023-01-26 18-06-53](https://user-images.githubusercontent.com/120550359/214837622-c41c9129-71c7-4e2c-9492-9bff83b45e31.png)
+
+
+2)
+![Screenshot from 2023-01-26 18-07-09](https://user-images.githubusercontent.com/120550359/214837658-1f6a825b-4166-4ae3-972d-5fafae755db8.png)
 
 
 
